@@ -1,0 +1,4 @@
+bps_used variant success reddening_law rmax e_rmax Tmax e_Tmax Vmax e_Vmax st e_st rchi2_data rchi2_data_model fitprob_data fitprob_data_model
+c  False O94 None None None None None None None None None None None None
+c-o  True O94 19.097187206470792 0.09432250179930893 59816.25795564168 1.5179593777544753 19.29974426201253 0.07875431979460822 1.0910216504742036 0.18129743284329464 1.409 1.406 0.04 0.041
+o  False O94 None None None None None None None None None None None None

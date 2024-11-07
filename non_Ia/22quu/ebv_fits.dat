@@ -1,0 +1,4 @@
+bps_used variant success reddening_law calibration Tmax e_Tmax DM e_DM st e_st EBVhost e_EBVhost rchi2_data rchi2_data_model fitprob_data fitprob_data_model
+c  False O94 0 None None None None None None None None None None None None
+c-o  True O94 0 59802.720672838994 0.9463347901681975 36.25324213202585 0.22711320609494717 0.549324373185819 0.11371937468737872 -0.15707435000375639 0.31587417452867644 0.512 0.505 0.599 0.603
+o  False O94 0 None None None None None None None None None None None None

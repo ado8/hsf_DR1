@@ -1,0 +1,19 @@
+bps_used variant success reddening_law Jmax e_Jmax st e_st rmax e_rmax Vmax e_Vmax Tmax e_Tmax Bmax e_Bmax rchi2_data rchi2_data_model fitprob_data fitprob_data_model
+c-o  False F19 None None None None None None None None None None None None None None None None
+c-o  False O94 None None 1.319922999146221 0.03 18.18255050750759 0.022 17.87663543804031 0.019 58830.211645266216 0.34 None None None None None None
+c-o-ztfg  False F19 None None None None None None None None None None None None None None None None
+c-o-ztfg-ztfr  False F19 None None None None None None None None None None None None None None None None
+c-o-ztfg-ztfr  False O94 None None None None None None None None None None None None None None None None
+c-o-ztfr  False F19 None None None None None None None None None None None None None None None None
+c-ztfg-ztfr  False F19 None None None None None None None None None None None None None None None None
+J-c-o 1D3 False O94 None None None None None None None None None None None None None None None None
+J-c-o-ztfg 2D False F19 None None None None None None None None None None None None None None None None
+J-c-o-ztfg-ztfr 1D3 False O94 None None None None None None None None None None None None None None None None
+J-c-o-ztfg-ztfr 2D False F19 None None None None None None None None None None None None None None None None
+J-c-o-ztfr 2D False F19 None None None None None None None None None None None None None None None None
+J-c-ztfg-ztfr 2D False F19 None None None None None None None None None None None None None None None None
+J-o-ztfg-ztfr 2D True F19 18.404868288829466 0.06083429846608535 1.3792885422905472 0.07711066530453399 17.859015466792897 0.027419458125477265 None None 58832.81910685922 0.7935114762502562 17.87823207769814 0.021171510021119035 0.721 0.635 0.755 0.838
+J-ztfg-ztfr 1D3 True O94 18.489840112525332 0.05811949368550182 0.8702620626313099 0.09063975626380857 17.811783939457083 0.04003856377128506 None None 58833.208880733466 0.597239601456323 17.845600870368177 0.031081381980294736 0.511 0.49 0.768 0.784
+o-ztfg-ztfr  True F19 None None 1.404747345653344 0.06045722522399591 17.849749827087663 0.02520465944714213 None None 58832.77606577394 0.6936788201954366 17.873908283185656 0.01766539554547725 0.367 0.36 0.961 0.964
+ztfg-ztfr  True F19 None None 1.323477207803275 0.10475790834347137 17.861443994963587 0.031180856949365995 None None 58833.04057471375 0.8532448160416342 17.875215921763132 0.02208626701098342 0.321 0.318 0.725 0.728
+ztfg-ztfr  True O94 None None 1.3234808773990856 0.1047646261463543 17.862072685923557 0.03118088443085066 None None 58833.04017417859 0.8533117791906413 17.875215468107225 0.02208694951190184 0.23 0.226 0.795 0.797

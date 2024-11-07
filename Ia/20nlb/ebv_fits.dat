@@ -1,0 +1,11 @@
+bps_used variant success reddening_law calibration Tmax e_Tmax DM e_DM st e_st EBVhost e_EBVhost rchi2_data rchi2_data_model fitprob_data fitprob_data_model
+c-o  True O94 0 59040.4153721051 2.2145207041344124 31.197511719538507 0.11705388954983711 1.377937973330855 0.14980340242400542 0.0810213502222316 0.12875061078663896 157.064 18.24 0.0 0.0
+c-o  True F19 6 59043.040426020096 0.6013517737771714 31.011340850464194 0.18987015738590715 0.9171908107233053 0.13804480400428729 0.10821770405165533 0.11874534303828908 969.019 57.57 0.0 0.0
+c-o-ztfg  True F19 6 59042.217201153166 0.44485667072131657 31.272011526107804 0.10097976050120307 1.4412326867088718 0.03474142207964414 0.2521357301396594 0.06182067385268073 139.922 26.934 0.0 0.0
+c-o-ztfg-ztfr  False O94 0 None None None None None None None None None None None None
+c-o-ztfg-ztfr  False F19 6 None None None None None None None None None None None None
+c-o-ztfr  False F19 6 None None None None None None None None None None None None
+c-ztfg-ztfr  False F19 6 None None None None None None None None None None None None
+o-ztfg-ztfr  False F19 6 None None None None None None None None None None None None
+ztfg-ztfr  False O94 0 None None None None None None None None None None None None
+ztfg-ztfr  False F19 6 None None None None None None None None None None None None

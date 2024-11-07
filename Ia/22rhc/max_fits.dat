@@ -1,0 +1,12 @@
+bps_used variant success reddening_law st e_st Ymax e_Ymax Vmax e_Vmax Tmax e_Tmax Bmax e_Bmax rchi2_data rchi2_data_model fitprob_data fitprob_data_model
+c-o  True F19 1.1096534212205382 0.09538181671256193 None None 18.33006153776974 0.037112245896901076 59819.30314197408 0.4543930321873058 17.883736876452737 0.030671376233102805 1.033 1.024 0.417 0.429
+c-o  True O94 1.1092950117582638 0.09547476650532782 None None 18.330134813541672 0.03710579866746573 59819.30302134194 0.4544056375405697 17.8838746545307 0.030663843931947286 1.033 1.024 0.417 0.429
+c-o-ztfg  False F19 None None None None None None None None None None None None None None
+c-o-ztfg-ztfr  False F19 None None None None None None None None None None None None None None
+c-o-ztfg-ztfr  False O94 None None None None None None None None None None None None None None
+c-o-ztfr  False F19 None None None None None None None None None None None None None None
+c-ztfg-ztfr  False F19 None None None None None None None None None None None None None None
+J-c-o 0D False O94 1.1098410899808777 0.08694702564513866 19.066664446085234 0.28842494537174584 18.319969561766452 0.034265902808989286 59819.29052822225 0.4344405423189042 17.89292716625991 0.027927036777161802 None None None None
+o-ztfg-ztfr  False F19 None None None None None None None None None None None None None None
+ztfg-ztfr  False F19 None None None None None None None None None None None None None None
+ztfg-ztfr  False O94 None None None None None None None None None None None None None None

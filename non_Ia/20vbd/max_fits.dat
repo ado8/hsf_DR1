@@ -1,0 +1,9 @@
+bps_used variant success reddening_law st e_st rmax e_rmax Vmax e_Vmax Tmax e_Tmax Bmax e_Bmax rchi2_data rchi2_data_model fitprob_data fitprob_data_model
+asg-c-o-ztfg  False O94 None None None None None None None None None None None None None None
+asg-c-o-ztfg-ztfr  False O94 None None None None None None None None None None None None None None
+asg-c-o-ztfr  False O94 None None None None None None None None None None None None None None
+asg-c-ztfg-ztfr  False O94 None None None None None None None None None None None None None None
+asg-o-ztfg-ztfr  False O94 None None None None None None None None None None None None None None
+c-o  False O94 None None None None None None None None None None None None None None
+c-o-ztfg-ztfr  True O94 2.139254740027395 0.05128818609232976 18.812667926004227 0.030484207501760327 18.938661358117933 0.042085190594998496 59138.25510431017 1.0946846911773442 19.17000914946228 0.02599074861028308 0.324 0.323 1.0 1.0
+ztfg-ztfr  True O94 2.1743839736693773 0.07313491204443733 18.808443268996903 0.03642945310581788 None None 59134.68327077455 1.8988666512348844 19.133501951900985 0.03804595157136294 0.472 0.47 0.982 0.983

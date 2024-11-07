@@ -1,0 +1,3 @@
+bps_used variant success reddening_law t0 e_t0 x0_mag e_x0_mag x1 e_x1 c e_c rchi2_data rchi2_data_model fitprob_data fitprob_data_model
+J-c-o 1D3 False F99 59455.242899323246 7.824352550867776 35.07511910285671 22.044441354327944 1318.5842594220762 25305.48653993552 9.863196567476344 3.750154139216608 None None None None
+J-o-ztfr 1D3 False F99 None None None None None None None None None None None None
